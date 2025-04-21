@@ -1,6 +1,6 @@
 # Sales-Data
 ## Sales Data Cleaning and Preprocessing
-#### This project contains a Jupyter Notebook that performs **data cleaning and preprocessing** on a sales dataset (`Sales-Export_2019-2020.csv`). The goal is to prepare the data for further analysis or visualization.
+#### This project contains a Jupyter Notebook that performs **data cleaning and preprocessing** on a sales dataset (`Sales-Export_2019-2020.csv`).
 
 1. **Imports Libraries**
    - Uses `pandas`, `numpy`, and suppresses warnings for a clean environment.
